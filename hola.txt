@@ -1,1 +1,6 @@
-hola
+git clone "link del repositorio creado en github"
+git add "archivo"
+git status
+git commit -m "mensaje"
+git push //sube a github las modificiaciones
+git pull //trae las modificaciones de github
